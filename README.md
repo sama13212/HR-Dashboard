@@ -145,7 +145,8 @@ hr-attrition-dashboard/
 *Attrition rate by overtime, business travel, and work-life balance — the dashboard's core diagnostic view.*
 
 **Employee**
-![Employee dashboard](screenshots/03-employee.png)<img width="1743" height="656" alt="Screenshot 2026-09-05 171454" src="https://github.com/user-attachments/assets/9c112403-662d-466d-84c1-028fe2500464" />
+![Employee dashboard]<img width="1806" height="652" alt="Screenshot 2026-09-05 192025" src="https://github.com/user-attachments/assets/bda3df26-024a-431b-98a0-0c2846186080" />
+
 
 *Individual-level patterns: attrition by years since last promotion and years in current role, income by age group, and gender comparison.*
 
